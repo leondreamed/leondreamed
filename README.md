@@ -2,7 +2,7 @@ Hi! I'm Leon, an aspiring ultralearner!
 
 I love pushing my limits with working on new projects and constantly learning new technologies. Here are some notable projects that I've worked on:
 
-[**Tabulo**](https://tabulo.app) (July 2020 - Present): An app that seeks to provide a suitable replacement for the classroom whiteboard. I developed most of the frontend using [Quasar](https://quasar.dev) and [Vue 3](https://vuejs.org), as well as the backend using [GraphQL](https://graphql.org), [Redis](https://redis.io), and [TypeScript](https://typescriptlang.org)
+[**Tabulo**](https://tabulo.app) (July 2020 - Present): An app that seeks to provide a suitable replacement for the classroom whiteboard. I developed most of the frontend using [Quasar](https://quasar.dev) and [Vue](https://vuejs.org), as well as the backend using [GraphQL](https://graphql.org), [Redis](https://redis.io), and [TypeScript](https://typescriptlang.org)
 
 **Muqo** (June 2020 - July 2020): Wrote an app for a startup from scratch using [React Native](https://reactnative.dev), as well as the backend using [Node.js](https://nodejs.org) and [PostgreSQL](https://postgresql.org)
 
