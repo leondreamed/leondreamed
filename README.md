@@ -6,7 +6,7 @@ I've been dabbling with coding for a while now, but I've only started taking it 
 
 **Muqo** (June 2020 - July 2020): I wrote an app for a startup from scratch using [React Native](https://reactnative.dev), as well as the backend using [Node.js](https://nodejs.org) and [PostgreSQL](https://postgresql.org).
 
-[**ChemShooter**](https://chemshooter.herokuapp.com) (June 2020): My friends and I built a game in 36 hours for [Hack the Northeast](https://hackthenortheast.com) and won Best Gaming Hack Prize. It was built using [Phaser](https://phaser.io), and you can check it out at [its Devpost page](https://devpost.com/software/chemshooter) or at [its GitHub Repo](https://github.com/ChemShooter/ChemShooter).
+[**ChemShooter**](https://chemshooter.herokuapp.com) (June 2020): My friends and I built a game in 36 hours for [Hack the Northeast](https://hackthenortheast.com) and won the Best Gaming Hack Prize with minimal prior game development experience. It was built using [Phaser](https://phaser.io), and you can check it out at [its Devpost page](https://devpost.com/software/chemshooter) or at [its GitHub Repo](https://github.com/ChemShooter/ChemShooter).
 
 [**Fulm**](https://github.com/leonzalion/Fulm) (March 2020): To learn electron, I've built a cross-platform timelapse screen recorder built using [Electron](https://electronjs.org).
 
