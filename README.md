@@ -12,8 +12,6 @@ I've been dabbling with coding for a while now, but I've only started taking it 
 
 [**Various Hackathon Projects**](https://devpost.com/leonzalion) (September 2019 - Present): I've also partipated in many hackathons and used various technologies to build projects in short periods of time. Some of these technologies include [React Native](https://reactnative.dev), [Flutter](https://flutter.dev), [MongoDB](https://mongodb.com), [Electron](https://electronjs.org), and [PHP](https://php.net).
 
-Have any questions or just want to get in touch? You can contact me at my email, leonzalion@gmail.com.
-
 <!--
 **leonzalion/leonzalion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
