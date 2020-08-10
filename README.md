@@ -8,7 +8,7 @@ I've been dabbling with coding for a while now, but I've only started taking it 
 
 [**ChemShooter**](https://chemshooter.herokuapp.com) (June 2020): My friends and I built a game in 36 hours for [Hack the Northeast](https://hackthenortheast.com) and won the Best Gaming Hack Prize with minimal prior game development experience. It was built using [Phaser](https://phaser.io), and you can check it out at [its Devpost page](https://devpost.com/software/chemshooter) or at [its GitHub Repo](https://github.com/ChemShooter/ChemShooter).
 
-[**Fulm**](https://github.com/leonzalion/Fulm) (March 2020): To learn electron, I've built a cross-platform timelapse screen recorder built using [Electron](https://electronjs.org).
+[**Fulm**](https://github.com/leonzalion/Fulm) (March 2020): I've built a cross-platform timelapse screen recorder built using [Electron](https://electronjs.org) as a side-project to learn this cool framework.
 
 [**Various Hackathon Projects**](https://devpost.com/leonzalion) (September 2019 - Present): I've also partipated in many hackathons and used various technologies to build projects in short periods of time. Some of these technologies include [React Native](https://reactnative.dev), [Flutter](https://flutter.dev), [MongoDB](https://mongodb.com), [Electron](https://electronjs.org), and [PHP](https://php.net).
 
