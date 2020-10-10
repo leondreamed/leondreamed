@@ -2,7 +2,7 @@ Hi! I'm Leon, an aspiring ultralearner!
 
 I've been dabbling with coding for a while now, but I've only started taking it seriously since Grade 9, when I learned C++ over the Winter Break (by studying a textbook for 10+ hours a day), and in Grade 10, when I attended my first hackathon. I'm currently in Grade 11 and have since improved a ton since I began! I love pushing my limits by working on new projects and constantly learning new technologies. Here are some notable projects that I've worked on:
 
-[**Timelapst**] (Date TBD): I'm hoping to make a time-lapse tool using Rust that works across all platforms (think of it as Fulm's successor)
+**Timelapst** (Date TBD): I'm hoping to make a time-lapse tool using Rust that works across all platforms (think of it as Fulm's successor)
 
 [**Tabulo**](https://tabulo.app) (July 2020 - Present): My friend and I are working on an app that seeks to provide a suitable virtual replacement for the classroom whiteboard. I developed most of the frontend using [Vue](https://vuejs.org) and [Quasar](https://quasar.dev), as well as the backend using [GraphQL](https://graphql.org), [Redis](https://redis.io), and [TypeScript](https://typescriptlang.org).
 
