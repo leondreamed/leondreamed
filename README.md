@@ -10,7 +10,7 @@ I've been dabbling with coding for a while now, but I've only started taking it 
 
 [**ChemShooter**](https://chemshooter.herokuapp.com) (June 2020): My friends and I built a game in 36 hours for [Hack the Northeast](https://hackthenortheast.com) and won the Best Gaming Hack Prize with minimal prior game development experience. It was built using [Phaser](https://phaser.io), and you can check it out at [its Devpost page](https://devpost.com/software/chemshooter) or at [its GitHub Repo](https://github.com/ChemShooter/ChemShooter).
 
-[**Traduit**](https://github.com/leonzalion/Traduit) (April 2020): I built a Browser Extension to help me save translations from WordReference into my Anki deck as flashcards.
+[**Traduit**](https://github.com/leonzalion/Traduit) (April 2020): I built a Browser Extension to help me save translations from WordReference into my Anki deck as flashcards using [jQuery](https://jquery.com).
 
 [**Fulm**](https://github.com/leonzalion/Fulm) (March 2020): I've built a cross-platform timelapse screen recorder built using [Electron](https://electronjs.org) as a side-project to learn this cool framework.
 
