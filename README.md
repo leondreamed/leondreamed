@@ -4,7 +4,7 @@ I've been dabbling with coding for a while now, but I've only started taking it 
 
 **Timelapst** (Date TBD): I'm hoping to make a time-lapse tool using [Rust](https://rust-lang.org) that works across all platforms (think of it as Fulm's successor).
 
-[**Tabulo**](https://tabulo.app) (July 2020 - Present): My friend and I are working on an app that seeks to provide a suitable virtual replacement for the classroom whiteboard. I developed most of the frontend using [Vue](https://vuejs.org) and [Quasar](https://quasar.dev), as well as the backend using [GraphQL](https://graphql.org), [Redis](https://redis.io), and [TypeScript](https://typescriptlang.org).
+[**Tabulo**](https://tabulo.app) (July 2020 - Present): My friends and I are working on an app that seeks to provide a suitable virtual replacement for the classroom whiteboard. I developed most of the frontend using [Vue](https://vuejs.org) and [Quasar](https://quasar.dev), as well as the backend using [GraphQL](https://graphql.org), [Redis](https://redis.io), and [TypeScript](https://typescriptlang.org).
 
 **Muqo** (June 2020 - July 2020): I wrote an app for a startup from scratch using [React Native](https://reactnative.dev), as well as the backend using [Node.js](https://nodejs.org) and [PostgreSQL](https://postgresql.org).
 
