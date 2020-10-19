@@ -12,7 +12,7 @@ I've been dabbling with coding for a while now, but I've only started taking it 
 
 [**Traduit**](https://github.com/leonzalion/Traduit) (April 2020): I built a Browser Extension to help me save translations from WordReference into my Anki deck as flashcards using [jQuery](https://jquery.com).
 
-[**Fulm**](https://github.com/leonzalion/Fulm) (March 2020): I've built a cross-platform timelapse screen recorder built using [Electron](https://electronjs.org) as a side-project to learn this cool framework.
+[**Fulm**](https://github.com/leonzalion/Fulm) (March 2020): I created a cross-platform timelapse screen recorder built using [Electron](https://electronjs.org) as a side-project to learn this cool framework.
 
 [**Various Hackathon Projects**](https://devpost.com/leonzalion) (September 2019 - Present): I've also participated in many hackathons and used various technologies to build projects in short periods of time. Some of these technologies include [React Native](https://reactnative.dev), [Flutter](https://flutter.dev), [MongoDB](https://mongodb.com), [Electron](https://electronjs.org), and [PHP](https://php.net).
 
