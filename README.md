@@ -14,7 +14,7 @@ I've been dabbling with coding for a while now, but I've only started taking it 
 
 [**Fulm**](https://github.com/leonzalion/Fulm) (March 2020): I created a cross-platform timelapse screen recorder built using [Electron](https://electronjs.org) as a side-project to learn this cool framework.
 
-[**Various Hackathon Projects**](https://devpost.com/leonzalion) (September 2019 - Present): I've also participated in many hackathons and used various technologies to build projects in short periods of time. Some of these technologies include [React Native](https://reactnative.dev), [Flutter](https://flutter.dev), [MongoDB](https://mongodb.com), [Electron](https://electronjs.org), and [PHP](https://php.net).
+[**Various Hackathon Projects**](https://devpost.com/leonzalion) (September 2019 - August 2020): I've also participated in 29 hackathons and used various technologies to build projects in short periods of time. Some of these technologies include [React Native](https://reactnative.dev), [Flutter](https://flutter.dev), [MongoDB](https://mongodb.com), [Electron](https://electronjs.org), and [PHP](https://php.net). I'm currently taking a break to focus more on long-term projects.
 
 <!--
 **leonzalion/leonzalion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
