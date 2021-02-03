@@ -1,6 +1,6 @@
 Hi! I'm Leon, an aspiring ultralearner!
 
-I've been dabbling with coding for a while now, but I've only started taking it seriously since Grade 9, when I learned C++ over the Winter Break (by studying a textbook for 10+ hours a day), and in Grade 10, when I attended my first hackathon. I'm currently in Grade 11 and have since improved a ton since I began! I love pushing my limits by working on new projects and constantly learning new technologies. Here are some notable projects that I've worked on:
+I've been dabbling with coding for a while now, but I've only started taking it seriously since Grade 9, when I learned C++ over the Winter Break (by studying a textbook for 10+ hours a day), and in Grade 10, when I attended my first hackathon. I'm currently in Grade 11, and I love pushing my limits by working on new projects and constantly learning new technologies. Here are some notable projects that I've worked on:
 
 **Timelapst** (Date TBD): I'm hoping to make a time-lapse tool using [Rust](https://rust-lang.org) that works across all platforms (think of it as Fulm's successor).
 
