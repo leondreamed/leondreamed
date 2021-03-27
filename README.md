@@ -25,9 +25,9 @@ Hi! I'm Leon, an aspiring ultralearner!
 
 ## Links
 **Wakatime (Coding Activity):** https://wakatime.com/@leonzalion
-
+\
 **Devpost (Hackathons):** https://devpost.com/leonzalion
-
+\
 **Typeracer Profile:** https://data.typeracer.com/pit/profile?user=leonzalion
 
 ## Notable Projects:
