@@ -1,43 +1,5 @@
 Hi! I'm Leon, an aspiring ultralearner!
 
-## Setup
-**Mouse:** Logitech G502 Hero
-\
-**Keyboard:** [Ergodox EZ](https://ergodox-ez.com/)
-\
-**Keyboard Layout:** [Programmer Dvorak](https://www.kaufmann.no/roland/dvorak/)
-\
-**Keyboard Utility Tool:** [AutoKey](https://github.com/autokey/autokey)
-\
-**OS:** Linux
-\
-**Distro:** [Arch Linux](https://archlinux.org/)
-\
-**Browser:** [Qutebrowser](https://qutebrowser.org/)
-\
-**IDE:** [VSCode](https://code.visualstudio.com/) w/ [VSCodeVim](https://github.com/VSCodeVim/Vim)
-\
-**Window Manager:** [dwm](https://dwm.suckless.org/) [(My Fork)](https://github.com/leonzalion/dwm)
-\
-**Terminal:** [st](https://st.suckless.org/) [(My Fork)](https://github.com/leonzalion/st)
-\
-**Terminal Multiplexer:** [Tmux](https://github.com/tmux/tmux)
-\
-**Terminal Prompt:** [Starship](https://starship.rs/)
-\
-**Time-tracking Software:** [ActivityWatch](https://activitywatch.net/)
-\
-**Password Manager:** [Bitwarden](https://bitwarden.com/)
-
-## Links
-**Wakatime (Coding Activity):** https://wakatime.com/@leonzalion
-\
-**Devpost (Hackathons):** https://devpost.com/leonzalion
-\
-**Linkedin**: https://linkedin.com/in/leonzalion
-\
-**Typeracer Profile:** https://data.typeracer.com/pit/profile?user=leonzalion
-
 ## Notable Projects:
 
 [**Tabulo**](https://tabulo.app) (July 2020 - Present): My friends and I are working on an app that seeks to provide a suitable virtual replacement for the classroom whiteboard. I developed most of the frontend using [Vue](https://vuejs.org) and [Quasar](https://quasar.dev), as well as the backend using [GraphQL](https://graphql.org), [Redis](https://redis.io), [TypeScript](https://typescriptlang.org), and [PostgreSQL](https://postgresql.org). I'm also writing unit tests with [Jest](https://jestjs.io) and end-to-end tests with [Cypress](https://cypress.io). We're also currently experimenting with [Rust](https://rust-lang.org) and [Elixir](https://elixir-lang.org).
@@ -68,3 +30,41 @@ Hi! I'm Leon, an aspiring ultralearner!
 - [Elixir](https://elixir-lang.org/)
 - [Docker](https://www.docker.com/)
 - [Kubernetes](https://kubernetes.io/)
+
+## Links
+**Wakatime (Coding Activity):** https://wakatime.com/@leonzalion
+\
+**Devpost (Hackathons):** https://devpost.com/leonzalion
+\
+**Linkedin**: https://linkedin.com/in/leonzalion
+\
+**Typeracer Profile:** https://data.typeracer.com/pit/profile?user=leonzalion
+
+## Setup
+**Mouse:** Logitech G502 Hero
+\
+**Keyboard:** [Ergodox EZ](https://ergodox-ez.com/)
+\
+**Keyboard Layout:** [Programmer Dvorak](https://www.kaufmann.no/roland/dvorak/)
+\
+**Keyboard Utility Tool:** [AutoKey](https://github.com/autokey/autokey)
+\
+**OS:** Linux
+\
+**Distro:** [Arch Linux](https://archlinux.org/)
+\
+**Browser:** [Qutebrowser](https://qutebrowser.org/)
+\
+**IDE:** [VSCode](https://code.visualstudio.com/) w/ [VSCodeVim](https://github.com/VSCodeVim/Vim)
+\
+**Window Manager:** [dwm](https://dwm.suckless.org/) [(My Fork)](https://github.com/leonzalion/dwm)
+\
+**Terminal:** [st](https://st.suckless.org/) [(My Fork)](https://github.com/leonzalion/st)
+\
+**Terminal Multiplexer:** [Tmux](https://github.com/tmux/tmux)
+\
+**Terminal Prompt:** [Starship](https://starship.rs/)
+\
+**Time-tracking Software:** [ActivityWatch](https://activitywatch.net/)
+\
+**Password Manager:** [Bitwarden](https://bitwarden.com/)
