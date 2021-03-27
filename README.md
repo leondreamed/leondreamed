@@ -28,6 +28,8 @@ Hi! I'm Leon, an aspiring ultralearner!
 \
 **Devpost (Hackathons):** https://devpost.com/leonzalion
 \
+**Linkedin**: https://linkedin.com/in/leonzalion
+\
 **Typeracer Profile:** https://data.typeracer.com/pit/profile?user=leonzalion
 
 ## Notable Projects:
@@ -41,3 +43,22 @@ Hi! I'm Leon, an aspiring ultralearner!
 [**Fulm**](https://github.com/leonzalion/Fulm) (March 2020): I created a cross-platform timelapse screen recorder built using [Electron](https://electronjs.org) as a side-project to learn this cool framework.
 
 [**Various Hackathon Projects**](https://devpost.com/leonzalion) (September 2019 - August 2020): I've also participated in 29 hackathons and used various technologies to build projects in short periods of time. Some of these technologies include [React Native](https://reactnative.dev), [Flutter](https://flutter.dev), [MongoDB](https://mongodb.com), [Electron](https://electronjs.org), and [PHP](https://php.net). I'm currently taking a break to focus more on long-term projects.
+
+## Technologies
+**Proficient:**
+- HTML, CSS, JavaScript
+- [TypeScript](https://www.typescriptlang.org/)
+- [Vue](https://vuejs.org)
+- [GraphQL](https://graphql.org)
+- [Redis](https://redis.io)
+- [PostgreSQL](https://postgresql.org)
+
+**Familiar:**
+- [Jest](https://jestjs.io)
+- [Cypress](https://cypress.io)
+
+**Currently Learning:**
+- [Rust](https://www.rust-lang.org/)
+- [Elixir](https://elixir-lang.org/)
+- [Docker](https://www.docker.com/)
+- [Kubernetes](https://kubernetes.io/)
