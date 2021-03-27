@@ -22,6 +22,7 @@ Hi! I'm Leon, an aspiring ultralearner!
 **Terminal Multiplexer:** [Tmux](https://github.com/tmux/tmux)
 \
 **Other:**
+\
 - [AutoKey](https://github.com/autokey/autokey)
 - [ActivityWatch](https://activitywatch.net/)
 - [Starship](https://starship.rs/)
