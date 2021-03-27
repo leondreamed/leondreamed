@@ -6,12 +6,19 @@ Hi! I'm Leon, an aspiring ultralearner!
 **Keyboard:** [Ergodox EZ](https://ergodox-ez.com/)
 \
 **OS:** Linux
+\
 **Distro:** [Arch Linux](https://archlinux.org/)
+\
 **Browser:** [Qutebrowser](https://qutebrowser.org/)
+\
 **IDE:** [VSCode](https://code.visualstudio.com/) w/ [VSCodeVim](https://github.com/VSCodeVim/Vim)
+\
 **Window Manager:** [dwm](https://dwm.suckless.org/) [(My Fork)](https://github.com/leonzalion/dwm)
+\
 **Terminal:** [st](https://st.suckless.org/) [(My Fork)](https://github.com/leonzalion/st)
+\
 **Terminal Prompt:** [Starship](https://starship.rs/)
+\
 **Terminal Multiplexer:** [Tmux](https://github.com/tmux/tmux)
 
 ## Links
