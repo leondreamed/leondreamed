@@ -41,7 +41,7 @@ Hi! I'm Leon, an aspiring ultralearner!
 **Typeracer Profile:** https://data.typeracer.com/pit/profile?user=leonzalion
 
 ## Setup
-**Mouse:** Logitech G502 Hero
+**Mouse:** [Logitech G502 Hero](https://www.logitechg.com/en-ca/products/gaming-mice/g502-hero-gaming-mouse.html)
 \
 **Keyboard:** [Ergodox EZ](https://ergodox-ez.com/)
 \
@@ -49,7 +49,7 @@ Hi! I'm Leon, an aspiring ultralearner!
 \
 **Keyboard Utility Tool:** [AutoKey](https://github.com/autokey/autokey)
 \
-**OS:** Linux
+**OS:** [Linux](https://www.linux.org/)
 \
 **Distro:** [Arch Linux](https://archlinux.org/)
 \
