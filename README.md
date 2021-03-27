@@ -7,6 +7,8 @@ Hi! I'm Leon, an aspiring ultralearner!
 \
 **Keyboard Layout:** [Programmer Dvorak](https://www.kaufmann.no/roland/dvorak/)
 \
+**Keyboard Utility Tool:** [AutoKey](https://github.com/autokey/autokey)
+\
 **OS:** Linux
 \
 **Distro:** [Arch Linux](https://archlinux.org/)
@@ -21,7 +23,11 @@ Hi! I'm Leon, an aspiring ultralearner!
 \
 **Terminal Multiplexer:** [Tmux](https://github.com/tmux/tmux)
 \
-**Other:** [AutoKey](https://github.com/autokey/autokey), [ActivityWatch](https://activitywatch.net/), [Starship](https://starship.rs/), [Bitwarden](https://bitwarden.com/)
+**Terminal Prompt:** [Starship](https://starship.rs/)
+\
+**Time-tracking Software:** [ActivityWatch](https://activitywatch.net/)
+\
+**Password Manager:** [Bitwarden](https://bitwarden.com/)
 
 ## Links
 **Wakatime (Coding Activity):** https://wakatime.com/@leonzalion
