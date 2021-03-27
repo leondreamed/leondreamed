@@ -1,13 +1,13 @@
 Hi! I'm Leon, an aspiring ultralearner!
 
-### Links
+## Links
 **Wakatime (Coding Activity):** https://wakatime.com/@leonzalion
 
 **Devpost (Hackathons):** https://devpost.com/leonzalion
 
 **GitHub Profile:** [https://github.com/leonzalion](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-### Notable Projects:
+## Notable Projects:
 
 [**Tabulo**](https://tabulo.app) (July 2020 - Present): My friends and I are working on an app that seeks to provide a suitable virtual replacement for the classroom whiteboard. I developed most of the frontend using [Vue](https://vuejs.org) and [Quasar](https://quasar.dev), as well as the backend using [GraphQL](https://graphql.org), [Redis](https://redis.io), [TypeScript](https://typescriptlang.org), and [PostgreSQL](https://postgresql.org). I'm also writing unit tests with [Jest](https://jestjs.io) and end-to-end tests with [Cypress](https://cypress.io). We're also currently experimenting with [Rust](https://rust-lang.org) and [Elixir](https://elixir-lang.org).
 
