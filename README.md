@@ -14,7 +14,7 @@ Hi! I'm Leon, an aspiring ultralearner!
 
 ## Technologies
 **Proficient:**
-- HTML, CSS, JavaScript
+- [HTML](https://en.wikipedia.org/wiki/HTML), [CSS](https://en.wikipedia.org/wiki/CSS), [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Vue](https://vuejs.org)
 - [GraphQL](https://graphql.org)
