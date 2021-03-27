@@ -2,7 +2,9 @@ Hi! I'm Leon, an aspiring ultralearner!
 
 ## Setup
 **Mouse:** Logitech G502 Hero
+\
 **Keyboard:** [Ergodox EZ](https://ergodox-ez.com/)
+\
 **OS:** Linux
 **Distro:** [Arch Linux](https://archlinux.org/)
 **Browser:** [Qutebrowser](https://qutebrowser.org/)
