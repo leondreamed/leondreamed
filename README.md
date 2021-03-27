@@ -19,9 +19,13 @@ Hi! I'm Leon, an aspiring ultralearner!
 \
 **Terminal:** [st](https://st.suckless.org/) [(My Fork)](https://github.com/leonzalion/st)
 \
-**Terminal Prompt:** [Starship](https://starship.rs/)
-\
 **Terminal Multiplexer:** [Tmux](https://github.com/tmux/tmux)
+\
+**Other:**
+- [AutoKey](https://github.com/autokey/autokey)
+- [ActivityWatch](https://activitywatch.net/)
+- [Starship](https://starship.rs/)
+- [Bitwarden](https://bitwarden.com/)
 
 ## Links
 **Wakatime (Coding Activity):** https://wakatime.com/@leonzalion
