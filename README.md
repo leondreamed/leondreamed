@@ -49,7 +49,7 @@ Hi! I'm Leon, an aspiring ultralearner!
 \
 **Keyboard Utility Tool:** [AutoKey](https://github.com/autokey/autokey)
 \
-**OS:** [Linux](https://www.linux.org/)
+**OS:** [Linux](https://en.wikipedia.org/wiki/Linux)
 \
 **Distro:** [Arch Linux](https://archlinux.org/)
 \
