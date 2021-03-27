@@ -24,6 +24,7 @@ Hi! I'm Leon, an aspiring ultralearner!
 **Familiar:**
 - [Jest](https://jestjs.io)
 - [Cypress](https://cypress.io)
+- [Python](https://www.python.org/)
 
 **Currently Learning:**
 - [Rust](https://www.rust-lang.org/)
