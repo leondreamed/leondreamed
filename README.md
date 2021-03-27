@@ -21,12 +21,7 @@ Hi! I'm Leon, an aspiring ultralearner!
 \
 **Terminal Multiplexer:** [Tmux](https://github.com/tmux/tmux)
 \
-**Other:**
-\
-- [AutoKey](https://github.com/autokey/autokey)
-- [ActivityWatch](https://activitywatch.net/)
-- [Starship](https://starship.rs/)
-- [Bitwarden](https://bitwarden.com/)
+**Other:** [AutoKey](https://github.com/autokey/autokey), [ActivityWatch](https://activitywatch.net/), [Starship](https://starship.rs/), [Bitwarden](https://bitwarden.com/)
 
 ## Links
 **Wakatime (Coding Activity):** https://wakatime.com/@leonzalion
