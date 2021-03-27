@@ -1,6 +1,13 @@
 Hi! I'm Leon, an aspiring ultralearner!
 
-I've been dabbling with coding for a while now, but I've only started taking it seriously since Grade 9, when I learned C++ over the Winter Break (by studying a textbook for 10+ hours a day), and in Grade 10, when I attended my first hackathon. I'm currently in Grade 11, and I love pushing my limits by working on new projects and constantly learning new technologies. Here are some notable projects that I've worked on:
+### Links
+**Wakatime (Coding Activity):** https://wakatime.com/@leonzalion
+
+**Devpost (Hackathons):** https://devpost.com/leonzalion
+
+**GitHub Profile:** [https://github.com/leonzalion](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+### Notable Projects:
 
 [**Tabulo**](https://tabulo.app) (July 2020 - Present): My friends and I are working on an app that seeks to provide a suitable virtual replacement for the classroom whiteboard. I developed most of the frontend using [Vue](https://vuejs.org) and [Quasar](https://quasar.dev), as well as the backend using [GraphQL](https://graphql.org), [Redis](https://redis.io), [TypeScript](https://typescriptlang.org), and [PostgreSQL](https://postgresql.org). I'm also writing unit tests with [Jest](https://jestjs.io) and end-to-end tests with [Cypress](https://cypress.io). We're also currently experimenting with [Rust](https://rust-lang.org) and [Elixir](https://elixir-lang.org).
 
