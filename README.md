@@ -5,6 +5,8 @@ Hi! I'm Leon, an aspiring ultralearner!
 \
 **Keyboard:** [Ergodox EZ](https://ergodox-ez.com/)
 \
+**Keyboard Layout:** [Programmer Dvorak](https://www.kaufmann.no/roland/dvorak/)
+\
 **OS:** Linux
 \
 **Distro:** [Arch Linux](https://archlinux.org/)
