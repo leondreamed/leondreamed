@@ -5,7 +5,7 @@ Hi! I'm Leon, an aspiring ultralearner!
 
 **Devpost (Hackathons):** https://devpost.com/leonzalion
 
-**GitHub Profile:** [https://github.com/leonzalion](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+**Typeracer Profile:** https://data.typeracer.com/pit/profile?user=leonzalion
 
 ## Notable Projects:
 
