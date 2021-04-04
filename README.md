@@ -31,7 +31,7 @@ Hi! I'm Leon, an aspiring ultralearner!
 - [Elixir](https://elixir-lang.org/)
 - [Docker](https://www.docker.com/)
 - [Kubernetes](https://kubernetes.io/)
-- [Other Languages](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- [Other Technologies](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ## Links
 **Wakatime (Coding Activity):** https://wakatime.com/@leonzalion
