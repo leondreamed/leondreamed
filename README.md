@@ -1,4 +1,4 @@
-Hi! I'm Leon, an aspiring ultralearner!
+Hi! I'm Leon, an aspiring ultralearner and an efficiency aficionado!
 
 ## Notable Projects:
 
