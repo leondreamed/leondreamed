@@ -1,10 +1,5 @@
-I’m an aspiring ultralearner and an efficiency aficionado. I strive to acquire new skills and gain knowledge through a self-directed effort of intense study, all while discovering the most efficient ways to jump the daily hurdles in my journey. For me, productivity and efficiency are inextricably tied to one another, both contributing to my auspicious pursuits.
-
-Ultralearning refers to a strategic style of learning characterized by self-direction and intensity. The vast majority of my programming knowledge comes from my adoption of this learning strategy, allowing me to pursue knowledge at a speed unparalleled by curated curriculums. Ultralearning also equips me with valuable problem-solving skills, as it encourages me to individually solve problems and seek solutions without a guide holding my hand along the way.
-
-Efficiency fuels my desire to explore new methods and tools to solve everyday problems. Efficiency is the reason which hides behind many of my seemingly obscure choices, from adopting an unorthodox keyboard layout to my bizarre wardrobe filled with ten identical gray shirts. My pursuit for an efficient workflow is marked by a commitment to my decisions, rarely wavering even when faced with struggle or discouragement.
-
-My unique learning style combined with my unconventional passion for efficiency establishes an environment which fosters the pursuit of knowledge. I endeavour to utilize the knowledge I gain to better the lives of others and help others discover their own productive workflow that enables them to produce their own work of an unrivaled quality.
+I’m an aspiring ultralearner and an efficiency aficionado. Ultralearning refers to a learning style
+characterized by an intense and self-directed effort. The vast majority of my programming knowledge comes from my adoption of this learning strategy, allowing me to acquire knowledge at a speed unparalleled by curated curriculums. Efficiency fuels my desire to explore new methods and tools to solve everyday problems. My pursuit for an efficient workflow is marked by a commitment to my decisions, rarely wavering even when faced with struggle or discouragement. My unique learning style combined with my unconventional passion for efficiency establishes an environment which fosters the pursuit of knowledge. I endeavour to utilize the knowledge I gain to better the lives of others and help others discover their own productive workflow that enables them to produce their own work of an unrivaled quality.
 
 ## Notable Projects:
 
