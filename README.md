@@ -34,6 +34,8 @@ I’m an aspiring ultralearner and an efficiency aficionado. Ultralearning refer
 - [Webpack](https://webpack.js.org/)
 - [Bash](https://www.gnu.org/software/bash/)
 - [AWS](https://aws.amazon.com/)
+- [C](https://en.wikipedia.org/wiki/C_(programming_language))
+- [C++](https://en.wikipedia.org/wiki/C%2B%2B)
 
 **Currently Learning:**
 - [Rust](https://www.rust-lang.org/)
