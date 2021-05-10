@@ -22,7 +22,6 @@ I’m an aspiring ultralearner and an efficiency aficionado. Ultralearning refer
 - [Vue](https://vuejs.org)
 - [GraphQL](https://graphql.org)
 - [Redis](https://redis.io)
-- [PostgreSQL](https://postgresql.org)
 
 **Familiar:**
 - [Jest](https://jestjs.io)
@@ -31,7 +30,7 @@ I’m an aspiring ultralearner and an efficiency aficionado. Ultralearning refer
 - [Kubernetes](https://kubernetes.io/)
 - [Python](https://www.python.org/)
 - [Sass](https://sass-lang.org)
-- [SQL](https://postgresql.org)
+- [PostgreSQL](https://postgresql.org)
 - [Webpack](https://webpack.js.org/)
 - [Bash](https://www.gnu.org/software/bash/)
 - [AWS](https://aws.amazon.com/)
