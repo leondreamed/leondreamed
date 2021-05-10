@@ -24,14 +24,13 @@ I’m an aspiring ultralearner and an efficiency aficionado. Ultralearning refer
 **Familiar:**
 - [Jest](https://jestjs.io)
 - [Cypress](https://cypress.io)
+- [Docker](https://www.docker.com/)
+- [Kubernetes](https://kubernetes.io/)
 - [Python](https://www.python.org/)
 
 **Currently Learning:**
 - [Rust](https://www.rust-lang.org/)
 - [Elixir](https://elixir-lang.org/)
-- [Docker](https://www.docker.com/)
-- [Kubernetes](https://kubernetes.io/)
-- [Other Technologies](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ## Links
 **Wakatime (Coding Activity):** https://wakatime.com/@leonzalion
