@@ -14,7 +14,10 @@ I’m an aspiring ultralearner and an efficiency aficionado. Ultralearning refer
 
 ## Technologies
 **Proficient:**
-- [HTML](https://en.wikipedia.org/wiki/HTML), [CSS](https://en.wikipedia.org/wiki/CSS), [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
+- [HTML](https://en.wikipedia.org/wiki/HTML)
+- [Pug](https://pugjs.org)
+- [CSS](https://en.wikipedia.org/wiki/CSS)
+- [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Vue](https://vuejs.org)
 - [GraphQL](https://graphql.org)
@@ -27,10 +30,16 @@ I’m an aspiring ultralearner and an efficiency aficionado. Ultralearning refer
 - [Docker](https://www.docker.com/)
 - [Kubernetes](https://kubernetes.io/)
 - [Python](https://www.python.org/)
+- [Sass](https://sass-lang.org)
+- [SQL](https://postgresql.org)
+- [Webpack](https://webpack.js.org/)
+- [Bash](https://www.gnu.org/software/bash/)
+- [AWS](https://aws.amazon.com/)
 
 **Currently Learning:**
 - [Rust](https://www.rust-lang.org/)
 - [Elixir](https://elixir-lang.org/)
+- [TailwindCSS](https://tailwindcss.com/)
 
 ## Links
 **Wakatime (Coding Activity):** https://wakatime.com/@leonzalion
