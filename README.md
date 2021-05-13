@@ -70,7 +70,7 @@ I’m an aspiring ultralearner and an efficiency aficionado. Ultralearning refer
 \
 **Window Manager:** [dwm](https://dwm.suckless.org/) [(My Fork)](https://github.com/leonzalion/dwm)
 \
-**Terminal:** [st](https://st.suckless.org/) [(My Fork)](https://github.com/leonzalion/st)
+**Terminal:** [Alacritty](https://github.com/alacritty/alacritty)
 \
 **Terminal Multiplexer:** [Tmux](https://github.com/tmux/tmux)
 \
