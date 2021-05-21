@@ -24,6 +24,7 @@ I’m an aspiring ultralearner and an efficiency aficionado. Ultralearning refer
 - [Redis](https://redis.io)
 
 **Familiar:**
+- [Rust](https://www.rust-lang.org/)
 - [Jest](https://jestjs.io)
 - [Cypress](https://cypress.io)
 - [Docker](https://www.docker.com/)
@@ -38,7 +39,6 @@ I’m an aspiring ultralearner and an efficiency aficionado. Ultralearning refer
 - [C++](https://en.wikipedia.org/wiki/C%2B%2B)
 
 **Currently Learning:**
-- [Rust](https://www.rust-lang.org/)
 - [Elixir](https://elixir-lang.org/)
 - [TailwindCSS](https://tailwindcss.com/)
 
