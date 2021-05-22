@@ -13,7 +13,7 @@ I’m an aspiring ultralearner and an efficiency aficionado. Ultralearning refer
 [**Various Hackathon Projects**](https://devpost.com/leonzalion) (September 2019 - August 2020): I've also participated in 30 hackathons and used various technologies to build projects in short periods of time. Some of these technologies include [React Native](https://reactnative.dev), [Flutter](https://flutter.dev), [MongoDB](https://mongodb.com), and [Electron](https://electronjs.org). I'm currently taking a break from hackathons to focus more on long-term projects.
 
 ## Technologies
-**Proficient:**
+**Experienced:**
 - [HTML](https://en.wikipedia.org/wiki/HTML)
 - [Pug](https://pugjs.org)
 - [CSS](https://en.wikipedia.org/wiki/CSS)
