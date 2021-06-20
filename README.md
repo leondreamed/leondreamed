@@ -62,7 +62,7 @@ I’m an aspiring ultralearner and an efficiency aficionado. Ultralearning refer
 \
 **OS:** [Linux](https://en.wikipedia.org/wiki/Linux)
 \
-**Distro:** [Arch Linux](https://archlinux.org/)
+**Distro:** [Ubuntu](https://ubuntu.com/)
 \
 **Browser:** [Qutebrowser](https://qutebrowser.org/)
 \
