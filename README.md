@@ -52,7 +52,7 @@ I’m an aspiring ultralearner and an efficiency aficionado. Ultralearning refer
 **Typeracer Profile:** https://data.typeracer.com/pit/profile?user=leonzalion
 
 ## Setup
-**Mouse:** [Logitech G502 Hero](https://www.logitechg.com/en-ca/products/gaming-mice/g502-hero-gaming-mouse.html)
+**Mouse:** [Anker Wired Ergonomic Mouse](https://us.anker.com/products/a7851)
 \
 **Keyboard:** [Ergodox EZ](https://ergodox-ez.com/)
 \
