@@ -1,6 +1,6 @@
-Hi, I'm Leon, and I'm passionate about going above and beyond in everything I do.
+Hi, I'm Leon, and I love going above and beyond in everything I do.
 
-It all started with my interest in ultralearning—a learning strategy characterized by intense and self-directed efforts. With the help of ultralearning, I became a self-taught programmer in just 2 weeks by studying a C++ textbook for over 10 hours every day during the winter break.
+It all started with my passion for ultralearning—a learning strategy characterized by intense and self-directed efforts. With the help of ultralearning, I became a self-taught programmer in just 2 weeks by studying a C++ textbook for over 10 hours every day during the winter break.
 
 Fueled by my love for intensity, I went on to attend over 25 hackathons in under an year—an unprecedented pace for a high school student.
 
