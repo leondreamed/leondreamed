@@ -2,9 +2,9 @@ Hi, I'm Leon, and I love going above and beyond in everything I do.
 
 It all started with my passion for ultralearning—a learning strategy characterized by intense and self-directed efforts. With the help of ultralearning, I became a self-taught programmer in just 2 weeks by studying a C++ textbook for over 10 hours every day during the winter break.
 
-Fueled by my love for intensity, I went on to attend over 25 hackathons in under an year—an unprecedented pace for a high school student.
+Fueled by my love for intensity, I went on to attend over 25 hackathons in under a year—an unprecedented pace for a high school student.
 
-While others were looking for internships, I went on to co-found a startup and developed an enterprise-level app—writing over 100,000 lines of code in under a year.
+While others were looking for internships, I went on to co-found a startup and developed an enterprise-level app from scratch—writing over 100,000 lines of code in under a year.
 
 Wishing to give back to the community, I recruited a few friends and together, we organized a first-iteration hackathon, independent of any organization. In under two months, we successfully organized ULHacks, a virtual hackathon which attracted 13 sponsors and reached over 200 participants.
 
