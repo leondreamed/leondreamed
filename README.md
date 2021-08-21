@@ -1,4 +1,16 @@
-I’m an aspiring ultralearner and an efficiency aficionado. Ultralearning refers to a learning style characterized by an intense and self-directed effort. The vast majority of my programming knowledge comes from my adoption of this learning strategy, allowing me to acquire knowledge at a speed unparalleled by curated curriculums. Efficiency fuels my desire to explore new methods and tools to solve everyday problems. My pursuit for an efficient workflow is marked by a commitment to my decisions, rarely wavering even when faced with struggle or discouragement. My unique learning style combined with my unconventional passion for efficiency establishes an environment which fosters the pursuit of knowledge. I endeavour to utilize the knowledge I gain to better the lives of others and help others discover their own productive workflow that enables them to produce their own work of an unrivaled quality.
+Hi, I'm Leon, and I'm passionate about going above and beyond in everything I do.
+
+It all started with my interest in ultralearning—a learning strategy characterized by intense and self-directed efforts. With the help of ultralearning, I became a self-taught programmer in just 2 weeks by studying a C++ textbook for over 10 hours every day during the winter break.
+
+Fueled by my love for intensity, I went on to attend over 25 hackathons in under an year—an unprecedented pace for a high school student.
+
+While others were looking for internships, I went on to co-found a startup and developed an enterprise-level app—writing over 100,000 lines of code in under a year.
+
+Wishing to give back to the community, I recruited a few friends and together, we organized a first-iteration hackathon, independent of any organization. In under two months, we successfully organized ULHacks, a virtual hackathon which attracted 13 sponsors and reached over 200 participants.
+
+I was never born crazy—in fact, I had been pretty much the opposite of crazy before high school. It was only during those four years where I transformed my mindset and made the decision to reject the status quo and to start doing crazy things.
+
+There's a difference between being crazy and choosing to be crazy—and that choice makes all the difference.
 
 ## Notable Projects:
 
