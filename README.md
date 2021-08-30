@@ -1,3 +1,5 @@
+It's not enough to live up to expectations—you'll only end up living the same life as everybody else. Those who have made the biggest impact on the world are those who have defied the world's expectations.
+
 ## Notable Projects:
 
 [**DrillDev**](https://github.com/Drill-Dev/drilldev) (August 2021 - Present): After becoming frustrated with the lack of a way to practice and prove our software development skills in a way that's comparable between developers, my friends and I are creating DrillDev, a site that allows you to solve software development problems (e.g. building a website, a backend, a mobile app) that would get automatically graded, similar to many competitive programming sites. The website is still in very early stages of development, and we're looking for people who'd be interested in helping us turn this idea into reality—if you are, feel free to shoot me an email! 
