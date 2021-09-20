@@ -60,17 +60,15 @@ It's not enough to live up to expectations—you'll only end up living the same 
 \
 **Keyboard Layout:** [Programmer Dvorak](https://www.kaufmann.no/roland/dvorak/)
 \
-**Keyboard Utility Tool:** [AutoKey](https://github.com/autokey/autokey)
+**Keyboard Utility Tool:** [Karabiner Elements](https://karabiner-elements.pqrs.org)
 \
-**OS:** [Linux](https://en.wikipedia.org/wiki/Linux)
-\
-**Distro:** [Ubuntu](https://ubuntu.com/)
+**OS:** [macOS](https://en.wikipedia.org/wiki/MacOS)
 \
 **Browser:** [Qutebrowser](https://qutebrowser.org/)
 \
 **IDE:** [VSCode](https://code.visualstudio.com/) w/ [VSCodeVim](https://github.com/VSCodeVim/Vim)
 \
-**Window Manager:** [dwm](https://dwm.suckless.org/) [(My Fork)](https://github.com/leonzalion/dwm)
+**Window Manager:** [Yabai](https://github.com/koekeishiya/yabai)
 \
 **Terminal:** [Alacritty](https://github.com/alacritty/alacritty)
 \
