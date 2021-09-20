@@ -15,34 +15,31 @@ It's not enough to live up to expectations—you'll only end up living the same 
 [**Various Hackathon Projects**](https://devpost.com/leonzalion) (September 2019 - August 2020): I've also participated in 30 hackathons and used various technologies to build projects in short periods of time. Some of these technologies include [React Native](https://reactnative.dev), [Flutter](https://flutter.dev), [MongoDB](https://mongodb.com), and [Electron](https://electronjs.org). I'm currently taking a break from hackathons to focus more on long-term projects.
 
 ## Technologies
-**Experienced:**
-- [HTML](https://en.wikipedia.org/wiki/HTML)
-- [Pug](https://pugjs.org)
-- [CSS](https://en.wikipedia.org/wiki/CSS)
-- [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
-- [TypeScript](https://www.typescriptlang.org/)
+
+**Note:** I believe that it's better to master a small set of programming languages that apply to as many programming fields as possible.
+
+**Universal:**
+- JavaScript [(TypeScript)](https://www.typescriptlang.org/)
+
+**Frontend:**
+- HTML [(Pug)](https://pugjs.org)
+- CSS [(TailwindCSS)](https://tailwindcss.com/)
 - [Vue](https://vuejs.org)
-- [GraphQL](https://graphql.org)
+
+**Database:**
+- [PostgreSQL](https://postgresql.org)
 - [Redis](https://redis.io)
 
-**Familiar:**
-- [Rust](https://www.rust-lang.org/)
+**Testing:**
 - [Jest](https://jestjs.io)
 - [Cypress](https://cypress.io)
+
+**Devops:**
 - [Docker](https://www.docker.com/)
 - [Kubernetes](https://kubernetes.io/)
-- [Python](https://www.python.org/)
-- [Sass](https://sass-lang.org)
-- [PostgreSQL](https://postgresql.org)
-- [Webpack](https://webpack.js.org/)
-- [Bash](https://www.gnu.org/software/bash/)
-- [AWS](https://aws.amazon.com/)
-- [C](https://en.wikipedia.org/wiki/C_(programming_language))
-- [C++](https://en.wikipedia.org/wiki/C%2B%2B)
 
-**Currently Learning:**
-- [Elixir](https://elixir-lang.org/)
-- [TailwindCSS](https://tailwindcss.com/)
+**When performance matters:**
+- [Rust](https://www.rust-lang.org/)
 
 ## Links
 **Wakatime (Coding Activity):** https://wakatime.com/@leonzalion
