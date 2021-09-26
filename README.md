@@ -61,11 +61,11 @@ It's not enough to live up to expectations—you'll only end up living the same 
 \
 **OS:** [macOS](https://en.wikipedia.org/wiki/MacOS)
 \
-**Browser:** [Qutebrowser](https://qutebrowser.org/)
+**Browser:** [Brave](https://qutebrowser.org/) w/ [Vimium](https://vimium.github.io/)
 \
 **IDE:** [VSCode](https://code.visualstudio.com/) w/ [VSCodeVim](https://github.com/VSCodeVim/Vim)
 \
-**Window Manager:** [Yabai](https://github.com/koekeishiya/yabai)
+**Window Manager:** [Yabai](https://github.com/koekeishiya/yabai) + [Custom Plugin](https://github.com/leonzalion/yabai-master-stack-layout)
 \
 **Terminal:** [Alacritty](https://github.com/alacritty/alacritty)
 \
@@ -73,6 +73,6 @@ It's not enough to live up to expectations—you'll only end up living the same 
 \
 **Terminal Prompt:** [Starship](https://starship.rs/)
 \
-**Time-tracking Software:** [ActivityWatch](https://activitywatch.net/)
+**Time-tracking Software:** [RescueTime](https://rescuetime.com/)
 \
 **Password Manager:** [Bitwarden](https://bitwarden.com/)
