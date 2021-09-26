@@ -59,7 +59,7 @@ It's not enough to live up to expectations—you'll only end up living the same 
 \
 **Keyboard Utility Tool:** [Karabiner Elements](https://karabiner-elements.pqrs.org)
 \
-**OS:** [macOS](https://en.wikipedia.org/wiki/MacOS)
+**OS:** [macOS](https://github.com/leonzalion/macos-configs)
 \
 **Browser:** [Brave](https://qutebrowser.org/) w/ [Vimium](https://vimium.github.io/)
 \
