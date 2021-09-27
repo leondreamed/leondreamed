@@ -32,7 +32,7 @@ It's not enough to live up to expectations—you'll only end up living the same 
 
 **Testing:**
 - [Jest](https://jestjs.io)
-- [Cypress](https://cypress.io)
+- [Playwright](https://playwright.dev)
 
 **Devops:**
 - [Docker](https://www.docker.com/)
