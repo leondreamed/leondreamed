@@ -49,6 +49,8 @@ It's not enough to live up to expectations—you'll only end up living the same 
 **Linkedin**: https://linkedin.com/in/leonzalion
 \
 **Typeracer Profile:** https://data.typeracer.com/pit/profile?user=leonzalion
+\
+**Personal Website:** https://leonzalion.com
 
 ## Setup
 **Mouse:** [Anker Wired Ergonomic Mouse](https://us.anker.com/products/a7851)
