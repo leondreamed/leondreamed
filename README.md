@@ -16,7 +16,7 @@ It's not enough to live up to expectations—you'll only end up living the same 
 
 ## Technologies
 
-**Note:** I believe that it's better to master a small set of programming languages that apply to as many programming fields as possible.
+**Note:** I believe that it's best to master a small set of programming languages that apply to as many programming fields as possible.
 
 **Universal:**
 - JavaScript [(TypeScript)](https://www.typescriptlang.org/)
