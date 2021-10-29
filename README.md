@@ -63,7 +63,7 @@ It's not enough to live up to expectations—you'll only end up living the same 
 \
 **OS:** [macOS](https://github.com/leonzalion/macos-configs)
 \
-**Browser:** [Brave](https://qutebrowser.org/) w/ [Vimium](https://vimium.github.io/)
+**Browser:** [Firefox](https://www.mozilla.org/en-CA/firefox/products/) w/ [Vimium](https://vimium.github.io/)
 \
 **IDE:** [VSCode](https://code.visualstudio.com/) w/ [VSCodeVim](https://github.com/VSCodeVim/Vim)
 \
