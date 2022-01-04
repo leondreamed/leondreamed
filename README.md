@@ -5,7 +5,7 @@
 \
 **LinkedIn**: https://linkedin.com/in/leonzalion
 \
-**Typeracer Profile:** https://data.typeracer.com/pit/profile?user=leonzalion
+**TypeRacer Profile:** https://data.typeracer.com/pit/profile?user=leonzalion
 \
 **Personal Website:** https://leonzalion.com
 
