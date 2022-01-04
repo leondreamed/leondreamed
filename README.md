@@ -3,7 +3,7 @@
 \
 **Devpost (Hackathons):** https://devpost.com/leonzalion
 \
-**Linkedin**: https://linkedin.com/in/leonzalion
+**LinkedIn**: https://linkedin.com/in/leonzalion
 \
 **Typeracer Profile:** https://data.typeracer.com/pit/profile?user=leonzalion
 \
