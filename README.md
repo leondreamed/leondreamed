@@ -1,5 +1,3 @@
-“Any application that can be written in JavaScript, will eventually be written in JavaScript.” - Jeff Atwood
-
 [![wakatime](https://wakatime.com/badge/user/7f857a93-19fe-4aa0-a66c-ada73bba5620.svg)](https://wakatime.com/@7f857a93-19fe-4aa0-a66c-ada73bba5620)
 
 ## Links
