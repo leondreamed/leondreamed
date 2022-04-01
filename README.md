@@ -7,8 +7,6 @@
 \
 **LinkedIn**: https://linkedin.com/in/leonzalion
 \
-**TypeRacer Profile:** https://data.typeracer.com/pit/profile?user=leonzalion
-\
 **Personal Website:** https://leonzalion.com
 
 ## Setup
