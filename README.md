@@ -35,3 +35,5 @@
 **Time-tracking Software:** [RescueTime](https://rescuetime.com/)
 \
 **Password Manager:** [Bitwarden](https://bitwarden.com/)
+
+> **Note:** I'm intentionally not following anybody since there's no way to disable the Following tab on the home page as for as I'm aware. GitHub, please don't turn into a social media platform.
