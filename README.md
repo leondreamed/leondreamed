@@ -36,4 +36,4 @@
 \
 **Password Manager:** [Bitwarden](https://bitwarden.com/)
 
-> **Note:** I'm intentionally not following anybody since there's no way to disable the Following tab on the home page as for as I'm aware. GitHub, please don't turn into a social media platform.
+> **Note:** I'm intentionally not following anybody since there's no way to disable the Following tab on the home page as for as I'm aware, so the only way to clear that page is by having 0 following. GitHub, please don't turn into a social media platform.
