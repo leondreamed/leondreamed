@@ -20,7 +20,7 @@
 \
 **OS:** [macOS](https://github.com/leonzalion/macos-configs)
 \
-**Browser:** [Firefox](https://www.mozilla.org/en-CA/firefox/products/) w/ [Vimium](https://vimium.github.io/)
+**Browser:** [Brave](https://brave.com/)
 \
 **IDE:** [VSCode](https://code.visualstudio.com/) w/ [VSCodeVim](https://github.com/VSCodeVim/Vim)
 \
@@ -31,8 +31,6 @@
 **Terminal Multiplexer:** [Tmux](https://github.com/tmux/tmux)
 \
 **Terminal Prompt:** [Starship](https://starship.rs/)
-\
-**Time-tracking Software:** [RescueTime](https://rescuetime.com/)
 \
 **Password Manager:** [Bitwarden](https://bitwarden.com/)
 
