@@ -33,8 +33,3 @@
 **Terminal Prompt:** [Starship](https://starship.rs/)
 \
 **Password Manager:** [Bitwarden](https://bitwarden.com/)
-
-<!--
-Update: found a way to hide the feed using Refined GitHub
-> **Note:** I'm intentionally not following anybody since there's no way to disable the Following tab on the home page. So, as for as I'm aware, the only way to "clear" that page is by having not following anybody. *GitHub, please don't turn into a social media platform.* I would like to follow people to show I'm interested in their work, not because I want to see new updates from them every time I log onto GitHub. 
--->
