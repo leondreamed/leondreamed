@@ -20,7 +20,7 @@
 \
 **OS:** [macOS](https://github.com/leondreamed/macos-configs)
 \
-**Browser:** [Brave](https://brave.com/)
+**Browser:** [Qutebrowser](https://qutebrowser.org)
 \
 **IDE:** [VSCode](https://code.visualstudio.com/) w/ [VSCodeVim](https://github.com/VSCodeVim/Vim)
 \
